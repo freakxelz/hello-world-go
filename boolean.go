@@ -16,4 +16,6 @@ func main(){
 
 	fmt.Println(lulus)
 
+	//versi 1 line
+	fmt.Println(nilaiAkhir >= 80 && absensi >= 75)
 }
